@@ -1,4 +1,4 @@
-## My Job Recommendation System
+## Job Recommendation System
 
 This project recommends jobs based on machine learning models. For more information, Read the [Report](https://drive.google.com/file/d/1-QF6RU9GJ1lXn1WTm4ziB8XE6d01aqqK/view?usp=sharing).
 
